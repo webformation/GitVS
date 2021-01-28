@@ -1,1 +1,2 @@
 Nom du fichier :   fic2.txt
+Ligne numéro 2
