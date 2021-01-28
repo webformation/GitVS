@@ -1,1 +1,1 @@
-Nom du fichier : fic2.txt
+Nom du fichier :   fic2.txt
