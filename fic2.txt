@@ -1,2 +1,2 @@
-Nom du fichier :   fic2.txt
+nom du fichier : fic2
 Ligne numéro 2
