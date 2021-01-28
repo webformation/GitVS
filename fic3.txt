@@ -1,2 +1,2 @@
-nom du fichier : fic3
-Ligne 2
+Nom du fichier: Fic3
+Ligne numéro 2
