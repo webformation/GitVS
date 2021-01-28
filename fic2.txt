@@ -1,3 +1,4 @@
-nom du fichier : fic2
-Ligne numéro 2
-Maxime DESSALLES
+fichier2.txt
+J'ai modifié mon fichier fic2.txt
+
+Nouvelle modif du fichier2
