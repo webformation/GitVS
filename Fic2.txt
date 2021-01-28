@@ -1,2 +1,4 @@
 fichier2.txt
 J'ai modifié mon fichier fic2.txt
+
+Nouvelle modif du fichier2
